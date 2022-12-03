@@ -2,25 +2,25 @@ export const Navitems = [
     {
         id: 0,
         name: 'Home',
-        link: '',
+        path: '/',
         clicked: false
     },
     {
         id: 1,
         name: 'Marketplace',
-        link: '/hhh',
+        path: '/marketplace',
         clicked: false
     },
     {
         id: 2,
         name: 'Auction',
-        link: '',
+        path: '/auction',
         clicked: false
     },
     {
         id: 3,
         name: 'Drop',
-        link: '',
+        path: '/drop',
         clicked: false
     }
 ]
